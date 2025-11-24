@@ -120,7 +120,7 @@ function createAreaCard(area) {
 
 async function loadData() {
   try {
-    const response = await fetch(`/data/loipen.json?ts=${Date.now()}`);
+    const response = await fetch(`data/loipen.json?ts=${Date.now()}`);
     if (!response.ok) throw new Error('API-Fehler');
     const payload = await response.json();
     const { areas, generatedAt } = payload;
