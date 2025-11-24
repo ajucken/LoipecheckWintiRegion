@@ -1,0 +1,418 @@
+{
+  "generatedAt": "2025-11-24T10:22:28.515Z",
+  "areas": [
+    {
+      "id": "bergfex",
+      "name": "Panoramaloipe Gibswil / am Bachtel",
+      "url": "https://www.bergfex.ch/zuerich/langlaufen/gibswil-bachtel-amslen/loipenplan/",
+      "webcamUrl": "https://www.bergfex.ch/zuerich/langlaufen/gibswil-bachtel-amslen/webcams/",
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": "Heute, 06:15",
+      "open": false,
+      "summary": "geschlossen",
+      "trails": [
+        {
+          "name": "Panoramaloipe",
+          "style": "Klassisch",
+          "distance": "12 km -",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Seelisbergloipe",
+          "style": "Klassisch/Skating",
+          "distance": "5 km -",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Anschlussloipe ab Gibswil",
+          "style": "Klassisch/Skating",
+          "distance": "2 km -",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Bachtelloipe",
+          "style": "Klassisch/Skating",
+          "distance": "9 km -",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Langlaufzentrum Amslen und Nachtloipe",
+          "style": "Klassisch/Skating",
+          "distance": "8 km -",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Rietliloipe",
+          "style": "Klassisch/Skating",
+          "distance": "4 km -",
+          "status": "closed",
+          "detail": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "tannenberg",
+      "name": "Skiclub Tannenberg",
+      "url": "https://www.skiclubtannenberg.ch/lopie/",
+      "webcamUrl": "https://www.skiclubtannenberg.ch/webcam/",
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": "Sonntag, 23.11.2025",
+      "open": true,
+      "summary": "Es sind für 3km skating und klassisch präpariert. Der Skilift ist ab 09:30 offen und das Fassdube- Beizli ist für sie geöffnet. Mer freuded üs uf eu!",
+      "trails": [
+        {
+          "name": "Tannenberg Loipen",
+          "style": "Klassisch & Skating",
+          "distance": "3-15 km",
+          "status": "open",
+          "detail": "Es sind für 3km skating und klassisch präpariert. Der Skilift ist ab 09:30 offen und das Fassdube- Beizli ist für sie geöffnet. Mer freuded üs uf eu!"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "schwedentritt",
+      "name": "Loipe Schwedentritt Einsiedeln",
+      "url": "https://www.schwedentritt.ch/langlauf-einsiedeln-loipenzustand-news",
+      "webcamUrl": "https://www.schwedentritt.ch/?page=67",
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": null,
+      "open": false,
+      "summary": "Loipenbericht Schwedentritt",
+      "trails": [
+        {
+          "name": "4 km Klassisch",
+          "style": "Klassisch",
+          "distance": "4 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "4 km Skating",
+          "style": "Skating",
+          "distance": "4 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "12 km Klassisch",
+          "style": "Klassisch",
+          "distance": "12 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "12 km Skating",
+          "style": "Skating",
+          "distance": "12 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "15 km Klassisch",
+          "style": "Klassisch",
+          "distance": "15 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "15 km Skating",
+          "style": "Skating",
+          "distance": "15 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "21.1 km Klassisch",
+          "style": "Klassisch",
+          "distance": "21.1 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "21.1 km Skating",
+          "style": "Skating",
+          "distance": "21.1 km",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Gross 5 km Klassisch",
+          "style": "Klassisch",
+          "distance": "Gross 5 km",
+          "status": "unknown",
+          "detail": null
+        },
+        {
+          "name": "Gross 5 km Skating",
+          "style": "Skating",
+          "distance": "Gross 5 km",
+          "status": "closed",
+          "detail": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "gais",
+      "name": "Langlaufzentrum Gais",
+      "url": "https://langlauf-gais.ch/",
+      "webcamUrl": "https://langlauf-gais.ch/webcam",
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": null,
+      "open": false,
+      "summary": "Langlaufzentrum Gais – Statusübersicht",
+      "trails": [
+        {
+          "name": "Nachtloipe (2,3 km mit 30 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Nachtloipe (2,3 km mit 30 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Nachtloipe Berg (3 km mit 60 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Nachtloipe Berg (3 km mit 60 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Herzloipe (3 km mit 30 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Herzloipe (3 km mit 30 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Rietli - Hackbühl (retour 4 km mit 70 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Rietli - Hackbühl (retour 4 km mit 70 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Hackbühl - Zwislen (retour 4 km mit 50 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Hackbühl - Zwislen (retour 4 km mit 50 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Zwislen - Schiessstand (retour 5 km mit 30 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Zwislen - Schiessstand (retour 5 km mit 30 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Rietli - Hoher Hirschberg (ca. 3 km mit 350 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Rietli - Hoher Hirschberg (ca. 3 km mit 350 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Hoher Hirschberg - Sammelplatz (ca. 3 km mit 250 Hm) (klassisch)",
+          "style": "Klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Hoher Hirschberg - Sammelplatz (ca. 3 km mit 250 Hm) (skating)",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "schauenberg",
+      "name": "Loipen Schauenberg",
+      "url": "https://www.loipen-schauenberg.ch/loipenbericht/",
+      "webcamUrl": "https://schauenberg.roundshot.co/",
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": "21. November 2025",
+      "open": false,
+      "summary": "21. November 2025 Schnee: es hat 8 cm Nasschnee gegeben Temperatur: Loipen Huggenberg; geschlossen",
+      "trails": [
+        {
+          "name": "Loipen Huggenberg",
+          "style": null,
+          "distance": null,
+          "status": "closed",
+          "detail": "Loipen Huggenberg; geschlossen"
+        },
+        {
+          "name": "Waldloipe",
+          "style": null,
+          "distance": null,
+          "status": "closed",
+          "detail": "Waldloipe: geschlossen"
+        },
+        {
+          "name": "Nachtloipe",
+          "style": null,
+          "distance": null,
+          "status": "closed",
+          "detail": "Nachtloipe: geschlossen (beleuchtet Mo – Fr, von 17.15 – 21.15 Uhr)"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "kyburg",
+      "name": "Loipe First-Kyburg",
+      "url": "https://loipekyburg.ch/",
+      "webcamUrl": null,
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": null,
+      "open": false,
+      "summary": "Status gemäss Loipen Kyburg",
+      "trails": [
+        {
+          "name": "Skating",
+          "style": null,
+          "distance": "–",
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Klassisch",
+          "style": null,
+          "distance": "–",
+          "status": "closed",
+          "detail": null
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "flumserberg",
+      "name": "Langlauf Flumserberg",
+      "url": "https://www.flumserberg.ch/langlauf",
+      "webcamUrl": "https://www.flumserberg.ch/webcam",
+      "fetchedAt": "2025-11-24T10:22:26.794Z",
+      "updated": null,
+      "open": false,
+      "summary": "Status laut Bergbahnen Flumserberg",
+      "trails": [
+        {
+          "name": "Madils-Loipe",
+          "style": "klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Madils-Loipe",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Panüöl-Fursch",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Prodalp Panorama-Loipe",
+          "style": "klassisch",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Prodalp Panorama-Loipe",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Prodalp-Panüöl",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Rennpiste Madils",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        },
+        {
+          "name": "Verbindungsloipe Alp Tannenboden-Prodalp",
+          "style": "Skating",
+          "distance": null,
+          "status": "closed",
+          "detail": null
+        }
+      ],
+      "error": null
+    }
+  ]
+}
